@@ -1,0 +1,21 @@
+{
+  "profiles": {
+    "ujprojekt 2023.02": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\yukon\\Desktop\\Projektfeladat 2023.02\\ujprojekt 2023.02\\bin\\Debug\\net6.0-windows",
+      "nativeDebugging": true,
+      "sqlDebugging": true,
+      "jsWebView2Debugging": true
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    },
+    "Profile 2": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\yukon\\Desktop\\Projektfeladat 2023.02\\ujprojekt 2023.02\\bin\\Debug\\net6.0-windows",
+      "nativeDebugging": true,
+      "sqlDebugging": true,
+      "jsWebView2Debugging": true
+    }
+  }
+}

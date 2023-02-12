@@ -1,0 +1,5 @@
+C:\Users\yukon\Desktop\Projektfeladat 2023.02\ujprojekt 2023.02\obj\Release\net6.0-windows\ujprojekt 2023.02.csproj.AssemblyReference.cache
+C:\Users\yukon\Desktop\Projektfeladat 2023.02\ujprojekt 2023.02\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\yukon\Desktop\Projektfeladat 2023.02\ujprojekt 2023.02\obj\Release\net6.0-windows\App.g.cs
+C:\Users\yukon\Desktop\Projektfeladat 2023.02\ujprojekt 2023.02\obj\Release\net6.0-windows\ujprojekt 2023.02_MarkupCompile.cache
+C:\Users\yukon\Desktop\Projektfeladat 2023.02\ujprojekt 2023.02\obj\Release\net6.0-windows\ujprojekt 2023.02_MarkupCompile.lref
